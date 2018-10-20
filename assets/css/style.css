@@ -1,0 +1,52 @@
+body{
+    background-color: #f4f4f4;
+    padding: 0;
+    margin: 0;
+    /*font-family: 'Lato', sans-serif;*/
+}
+.container{
+    margin-top: 70px;
+}
+.container .jumbotron{
+    background: url(https://images.unsplash.com/photo-1515481873067-bfae3f724505?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fb8cfb6f634f40f42dfe19db915bad51&auto=format&fit=crop&w=1050&q=80);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-y: 65%;
+    color: #f4f4f4;
+    min-height: 100%;              
+}
+.container.feature img{
+    align-content: center;
+}
+nav ul li{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.card-deck .card {
+  min-width: 220px;
+}
+.active{
+    font-weight: 500;
+}
+@media(min-width:768px){
+    headrer-content h2 .display-2{
+        font-size: 1.5rem !important;
+    }            
+}
+@media(max-width:768px){
+    .hide-on-sm{
+        display: none;
+    }
+}
+ul.social-icons li a{
+    color: white;
+}
+ul.social-icons li a:hover{
+    color: rgb(142, 142, 236);
+}
+/*.features .col-sm-12,
+.features .col-md-4{
+    background-color:white;
+}
+*/
