@@ -1,7 +1,7 @@
 # BootsApp
 A simple bootstrap template contains basic pages such as home page, about page, pricing page, login and signup page.
 
->The project is completely open source and free to use for anyone and also anyone can make changes to it.
+>The project is completely open source and free to use for anyone and also anyone can make changes to it. Also the name bootsapp is not copyrighted its just a random name choosen by the developer.
 
 Following libraries are used in the development of the project
  - Bootstrap 4
